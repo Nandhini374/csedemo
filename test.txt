@@ -1,2 +1,3 @@
 Welcome to cse
 cse b sec
+day 2 demo
